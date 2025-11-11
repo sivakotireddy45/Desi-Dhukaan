@@ -1,4 +1,4 @@
-# 🛒 DesiDukaan
+# 🛒 DesiDhukaan
 
 ## 📖 Use Case
 Nowadays, most people rely on *Flipkart* and *Amazon* for groceries. As a result, *local shopkeepers are facing huge losses* due to lack of online presence.  
@@ -47,3 +47,4 @@ We are also *integrating a chatbot* to answer customer queries and provide assis
 | *Hosting*      | Vercel  (Frontend), Render(Backend) |
 
 ---
+
