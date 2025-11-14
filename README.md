@@ -16,7 +16,7 @@ We are also *integrating a chatbot* to answer customer queries and provide assis
 - Search and filter products.
 - User authentication & profile management.
 - *PayPal Sandbox Integration* for online payments.
-- *Chatbot for Customer Support* (Ongoing Integration).
+- *Chatbot for Customer Support* (Tidio chatbot).
 
 ### ✅ Shopkeeper/Admin Panel
 - Add, edit, delete grocery items.
@@ -47,4 +47,5 @@ We are also *integrating a chatbot* to answer customer queries and provide assis
 | *Hosting*      | Vercel  (Frontend), Render(Backend) |
 
 ---
+
 
