@@ -47,5 +47,9 @@ We are also *integrating a chatbot* to answer customer queries and provide assis
 | *Hosting*      | Vercel  (Frontend), Render(Backend) |
 
 ---
+*Cloudinary* 
+-Cloudinary is a cloud-based platform for media management
+-Simplifies handling of images and videos for web applications
+-Manages the entire lifecycle of media: upload, store, transform, optimize and deliver
 
 
